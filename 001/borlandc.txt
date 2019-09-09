@@ -1,0 +1,5 @@
+COMPILANDO CON Borland C++
+
+Borland C ++ es un IDE C y C ++ para MS-DOS y Microsoft Windows.
+ Fue el sucesor de Turbo C ++ e incluyó un mejor depurador, 
+el Turbo Debugger, que se escribió en modo protegido DOS

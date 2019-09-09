@@ -1,0 +1,6 @@
+COMPILANDO CON Tiny C
+
+Tiny C Compiler es un compilador C de procesador x86, X86-64 y ARM 
+creado por Fabrice Bellard. Está diseñado para funcionar
+ en computadoras lentas con poco espacio en disco. La compatibilidad 
+con el sistema operativo Windows se agregó en la versión 0.9.23.

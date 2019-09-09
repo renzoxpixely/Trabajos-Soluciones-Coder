@@ -1,0 +1,9 @@
+COMPILANDO CON WINGW
+
+MinGW (Minimalist GNU for Windows), anteriormente conocido como MinGW32,
+ es una implementación de los compiladores GCC para la plataforma Win32, 
+que permite migrar la capacidad de este compilador en entornos Windows.
+ Es un fork de Cygwin en su versión 1.3.3. Además MinGW incluye
+ un conjunto de la API de Win32, permitiendo un desarrollo de aplicaciones
+ nativas para esa plataforma, pudiendo generar ejecutables y bibliotecas
+ usando la API de Windows.

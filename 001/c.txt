@@ -1,0 +1,6 @@
+COMPILANDO CON C++
+
+g++ es el alias tradicional de GNU C++,
+ un conjunto libre de compiladores de C++.
+ Forma parte del GCC, GNU Compiler Collection 
+(del inglés, colección de compiladores GNU).
