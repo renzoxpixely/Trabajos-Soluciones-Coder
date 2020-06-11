@@ -1,0 +1,17 @@
+precio  codigo nombre
+1 soles 1000 Café
+2 soles 1001 Cereales
+3 soles 1002 Chile piquín
+4 soles 1003 Especias
+4 soles 1004 Flan en polvo
+1 soles 1005 Formulas infantiles
+2 soles 1006 Gelatinas en polvo/Grenetina
+1 soles 1007 Harina
+4 soles 1008 Harina preparada
+4 soles 1009 Mole
+9 soles 1010 Sal
+3 soles 1011 Salsas envasadas
+7 soles 1012 Sazonadores
+1 soles 1013 Sopas en sobre
+9 soles 1014 Cajeta
+2 soles 1015 Catsup
